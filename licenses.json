@@ -15,6 +15,12 @@
       "expires": "2026-08-22 15:30:00",
       "plan": "1 hr Pass",
       "active": true
+    },
+    {
+      "uid": "C9BD2034",
+      "expires": "2026-08-22 15:30:00",
+      "plan": "1 hr Trial",
+      "active": true
     }
   ]
 }
