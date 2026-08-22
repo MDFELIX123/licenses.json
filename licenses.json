@@ -11,8 +11,10 @@
   ],
   "licensed_users": [
     {
-      "uid": "6",
-      "expires": "2027-09-22T00:00:00"
+      "uid": "D60798D6",
+      "expires": "2026-08-22 15:30:00",
+      "plan": "1 hr Pass",
+      "active": true
     }
   ]
 }
