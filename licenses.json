@@ -12,33 +12,7 @@
   "licensed_users": [
     {
       "uid": "D60798D6",
-      "expires": "2026-08-22 15:30:00",
-      "plan": "1 hr Pass",
-      "active": true
-    },
-    {
-      "uid": "C9BD2034",
-      "expires": "2026-08-22 15:30:00",
-      "plan": "1 hr Trial",
-      "active": true
-    },
-    {
-      "uid": "A1B2C3D4",
-      "expires": "2026-08-25 14:00:00",
-      "plan": "72 hrs Weekend",
-      "active": true
-    },
-    {
-      "uid": "E5F6G7H8",
-      "expires": "2026-09-22 12:00:00",
-      "plan": "30 Days Monthly",
-      "active": true
-    },
-    {
-      "uid": "VIP-USER-99",
-      "expires": "lifetime",
-      "plan": "VIP Lifetime",
-      "active": true
+      "duration_hours": 1
     }
   ]
 }
