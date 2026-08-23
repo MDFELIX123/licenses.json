@@ -2,32 +2,20 @@
   "currency": "NGN",
   "pricing": [
     {
-      "amount": 500,
-      "hours": 1
+      "amount": 700,
+      "hours": 2
     },
     {
-      "amount": 5000,
-      "hours": 10
+      "amount": 1000,
+      "hours": 3
+    },
+    {
+      "amount": 1500,
+      "hours": 4
     },
     {
       "amount": 10000,
-      "hours": 24
-    },
-    {
-      "amount": 20000,
-      "hours": 72
-    },
-    {
-      "amount": 50000,
       "days": 7
-    },
-    {
-      "amount": 100000,
-      "days": 30
-    },
-    {
-      "amount": 200000,
-      "days": 90
     }
   ],
   "licensed_users": [
