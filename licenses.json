@@ -18,12 +18,5 @@
       "days": 7
     }
   ],
-  "licensed_users": [
-    {
-      "uid": "D60798D6",
-      "expires": "2026-08-23 19:03:08",
-      "plan": "10 hr Pass",
-      "active": false
-    }
-  ]
+  "licensed_users": []
 }
