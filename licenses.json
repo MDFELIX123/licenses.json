@@ -1,43 +1,15 @@
 {
   "currency": "NGN",
   "pricing": [
-    {
-      "amount": 700,
-      "hours": 2
-    },
-    {
-      "amount": 1000,
-      "hours": 3
-    },
-    {
-      "amount": 1500,
-      "hours": 4
-    },
-    {
-      "amount": 10000,
-      "days": 7
-    }
+    { "amount": 700, "hours": 2 },
+    { "amount": 1000, "hours": 3 },
+    { "amount": 1500, "hours": 4 },
+    { "amount": 10000, "days": 7 }
   ],
   "licensed_users": [
-    {
-      "uid": "07898CE6",
-      "expires": "2026-08-23 17:53:59"
-    },
-    {
-      "uid": "26C9F565",
-      "expires": "2026-08-23 13:18:55"
-    },
-    {
-      "uid": "#!/USR/BIN/ENV PYTHON3",
-      "expires": "2026-08-23 20:11:06"
-    },
-    {
-      "uid": "9791E46D",
-      "expires": "2026-08-23 20:11:50"
-    },
-    {
-      "uid": "D60798D6",
-      "expires": "2026-08-23 23:12:49"
-    }
+    { "uid": "07898CE6", "expires": "2026-08-23 17:53:59" },
+    { "uid": "26C9F565", "expires": "2026-08-23 13:18:55" },
+    { "uid": "9791E46D", "expires": "2026-08-23 20:11:50" },
+    { "uid": "D60798D6", "expires": "2026-08-23 23:12:49" }
   ]
 }
