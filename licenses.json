@@ -1,35 +1,19 @@
 {
   "currency": "NGN",
   "pricing": [
-    {
-      "amount": 700,
-      "hours": 2
-    },
-    {
-      "amount": 1000,
-      "hours": 3
-    },
-    {
-      "amount": 1500,
-      "hours": 4
-    },
-    {
-      "amount": 10000,
-      "days": 7
-    }
+    { "amount": 700, "hours": 2 },
+    { "amount": 1000, "hours": 3 },
+    { "amount": 1500, "hours": 4 },
+    { "amount": 10000, "days": 7 }
   ],
   "licensed_users": [
     {
       "uid": "07898CE6",
-      "expires": "2026-08-23 13:17:15",
-      "plan": "1 hr Pass",
-      "active": true
+      "expires": "2026-08-23 13:17:15"
     },
     {
       "uid": "26C9F565",
-      "expires": "2026-08-23 13:18:55",
-      "plan": "1 hr Pass",
-      "active": true
+      "expires": "2026-08-23 13:18:55"
     }
   ]
 }
