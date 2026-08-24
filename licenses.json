@@ -2,12 +2,8 @@
   "currency": "NGN",
   "pricing": [
     {
-      "amount": 10000,
-      "days": 30
-    },
-    {
-      "amount": 150000,
-      "days": 350
+      "amount": 500,
+      "hours": 1
     }
   ],
   "licensed_users": [
